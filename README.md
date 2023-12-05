@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tanersucu8
 - 👀 I’m interested in coding on security.
 - 🌱 I’m currently learning community security.
+- Thanks to everyone.
 
 
 <!---
